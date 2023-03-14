@@ -45,7 +45,7 @@ Suponiendo que esta herramienta se encuentra en `/home/jdoe/lib` como `SailPoint
 java -jar /home/jdoe/lib/SailPointXMLMerger.jar build/extract/WEB-INF/config/custom > /home/jdoe/Documents/identityiq-production.xml
 ```
 
-## Usage
+## Uso
 
 Suponiendo que tiene un archivo `/home/jdoe/Documents/identityiq-production.xml`, también debe colocar el archivo DTD para la versión de IdentityIQ en la misma carpeta con el nombre `sailpoint.dtd`. También suponiendo que la herramienta de documentación está instalada en /home/jdoe/lib como `IdentityIQDocumentationGenerator.jar` y los archivos XSLT están en `/home/jdoe/xslt`, puede llamar a la herramienta de documentación de la siguiente manera:
 
