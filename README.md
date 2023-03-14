@@ -1,6 +1,8 @@
-# IdentityIQ Documentation Tool
+# Herramienta de Documentación de IdentityIQ
 
 This tool allows customers and implementers to automatically create documentation for their IdentityIQ configuration, based on XML configuration files. These files should be merged into a single XML document.
+
+Esta herramienta permite a implementadores generar de forma automática documentación para su configuración de IdentityIQ, basandose en ficheros de configuracion XML. Estos ficheros deben haber sido fusionados en un unico documento XML.
 
 ## Provided Files
 
